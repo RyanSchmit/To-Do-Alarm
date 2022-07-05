@@ -1,0 +1,17 @@
+* {
+	background-color: aquamarine;
+}
+
+.header {
+	color: grey;
+	text-align: center;
+	font-size: 50px;
+}
+
+
+.current-time {
+	display: flex;
+	justify-content: center;
+	color: goldenrod;
+	font-size: 30px;
+}
